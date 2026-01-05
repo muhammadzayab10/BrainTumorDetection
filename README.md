@@ -1,4 +1,4 @@
-#Brain Tumor Detection
+# Brain Tumor Detection
 Brain Tumor Detection is a deep learning project focused on automatically identifying brain tumors from medical brain images, typically MRI scans. The goal of the project is to support faster image analysis by training a computer model to recognize visual patterns associated with tumor and non-tumor cases.
 
 This project uses convolutional neural networks (CNNs), a class of deep learning models widely used in image classification tasks. The network learns key features such as shapes, textures, asymmetries, and abnormal tissue regions directly from pixel data, reducing the need for manual feature engineering. The workflow includes dataset loading, preprocessing steps such as normalization and resizing, model training, validation, and testing.
